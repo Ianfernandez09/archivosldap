@@ -1,0 +1,9 @@
+dn: ou=people,dc=megainfo205,dc=com
+ou: people
+ObjectClass: top
+ObjectClass: organizationalUnit
+
+dn: ou=group,dc=megainfo205,dc=com
+ou: group
+ObjectClass: top
+ObjectClass: organizationalUnit

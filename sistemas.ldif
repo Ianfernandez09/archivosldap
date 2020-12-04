@@ -1,0 +1,5 @@
+dn: cn=sistemas,ou=group,dc=megainfo205,dc=com
+objectClass: posixGroup
+objectClass: top
+cn: sistemas
+gidnumber: 2000
